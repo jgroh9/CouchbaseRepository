@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouchbaseRepository", "CouchbaseRepository\CouchbaseRepository.csproj", "{CA49AE93-DD55-4B14-A75C-02B9DE067F79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CouchbaseRepositorySpec", "CouchbaseRepositorySpec\CouchbaseRepositorySpec.csproj", "{DD543C4C-C001-4315-B14E-2292C32EAFF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{44DC8AB1-091F-4D00-B325-AA672A7280AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA49AE93-DD55-4B14-A75C-02B9DE067F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA49AE93-DD55-4B14-A75C-02B9DE067F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA49AE93-DD55-4B14-A75C-02B9DE067F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA49AE93-DD55-4B14-A75C-02B9DE067F79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD543C4C-C001-4315-B14E-2292C32EAFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD543C4C-C001-4315-B14E-2292C32EAFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD543C4C-C001-4315-B14E-2292C32EAFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD543C4C-C001-4315-B14E-2292C32EAFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44DC8AB1-091F-4D00-B325-AA672A7280AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DC8AB1-091F-4D00-B325-AA672A7280AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DC8AB1-091F-4D00-B325-AA672A7280AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DC8AB1-091F-4D00-B325-AA672A7280AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
